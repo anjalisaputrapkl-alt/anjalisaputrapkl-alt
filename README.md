@@ -1,16 +1,23 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ANJALI%20SAPUTRA&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
-<!-- TYPING TEXT -->
+<!-- MATRIX RAIN GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;PHP+%7C+MySQL+%7C+JavaScript;Building+Cool+Things+🔥;Welcome+To+My+GitHub!" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
 </p>
+
+<!-- GLITCH NAME -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=ANJALI+SAPUTRA;FULLSTACK+WEB+DEVELOPER;CODE+%3D+POWER;WELCOME+TO+THE+SYSTEM" />
+</h1>
 
 ---
 
-## 👨‍💻 About Me
-```txt
-Nama        : Anjali Saputra
-Role        : Web Developer
-Fokus       : Backend & Fullstack
-Mindset     : Build • Break • Learn • Repeat
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00fff7&height=3" width="90%"/>
+</p>
+
+## 🧠 SYSTEM PROFILE
+```diff
++ STATUS     : ONLINE
++ ROLE       : WEB DEVELOPER
++ MODE       : DARK | LOGICAL | AGGRESSIVE
++ MISSION    : BUILD SYSTEMS THAT ACTUALLY WORK
+- FEAR       : NONE
