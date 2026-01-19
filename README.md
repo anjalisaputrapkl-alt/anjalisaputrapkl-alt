@@ -1,23 +1,24 @@
-<!-- MATRIX RAIN GIF -->
+<!-- ================================================= -->
+<!-- FINAL FORM : SYSTEM OVERRIDE // GITHUB PROFILE   -->
+<!-- ================================================= -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
 </p>
 
-<!-- GLITCH NAME -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=ANJALI+SAPUTRA;FULLSTACK+WEB+DEVELOPER;CODE+%3D+POWER;WELCOME+TO+THE+SYSTEM" />
-</h1>
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00fff7&height=3" width="90%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&pause=500&color=00FF9C&center=true&vCenter=true&width=900&lines=BOOTING+SYSTEM...;ACCESSING+GITHUB+CORE...;USER:+ANJALI_SAPUTRA;ROLE:+FULLSTACK_WEB_DEVELOPER;STATUS:+OVERRIDE_GRANTED;WELCOME+TO+THE+SYSTEM" />
 </p>
 
-## 🧠 SYSTEM PROFILE
-```diff
-+ STATUS     : ONLINE
-+ ROLE       : WEB DEVELOPER
-+ MODE       : DARK | LOGICAL | AGGRESSIVE
-+ MISSION    : BUILD SYSTEMS THAT ACTUALLY WORK
-- FEAR       : NONE
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+```ansi
+[ OK ] Initializing core modules
+[ OK ] Connecting to GitHub servers
+[WARN] Skill level detected: HIGH
+[ OK ] Developer mode: ENABLED
++ NAME        : ANJALI SAPUTRA
++ CLASS       : FULLSTACK WEB DEVELOPER
++ STACK       : PHP | MySQL | JavaScript
++ MINDSET     : BUILD → BREAK → FIX → REPEAT
+- LIMIT       : NOT FOUND
